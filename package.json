@@ -1,0 +1,28 @@
+{
+  "name": "rgba-loader",
+  "version": "1.0.0",
+  "description": "css post loader for rgba",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha text.js --slow 2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://adminparry@github.com/adminparry/rgba-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "parry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adminparry/rgba-loader/issues"
+  },
+  "homepage": "https://github.com/adminparry/rgba-loader#readme",
+  "dependencies": {
+    "css": "^2.2.3",
+    "extend": "^3.0.2",
+    "loader-utils": "^1.1.0"
+  }
+}
